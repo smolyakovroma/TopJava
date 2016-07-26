@@ -5,7 +5,7 @@ import ru.javawebinar.topjava.model.User;
 import java.util.List;
 
 /**
- * User: gkislin
+ * User:
  * Date: 22.08.2014
  */
 public interface UserRepository {

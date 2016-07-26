@@ -11,7 +11,7 @@ import ru.javawebinar.topjava.LoggerWrapper;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * User: gkislin
+ * User:
  * Date: 23.09.2014
  */
 @ControllerAdvice

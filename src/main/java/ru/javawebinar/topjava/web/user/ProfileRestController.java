@@ -10,7 +10,7 @@ import ru.javawebinar.topjava.model.User;
 import ru.javawebinar.topjava.to.UserTo;
 
 /**
- * GKislin
+ *
  * 06.03.2015.
  */
 @RestController

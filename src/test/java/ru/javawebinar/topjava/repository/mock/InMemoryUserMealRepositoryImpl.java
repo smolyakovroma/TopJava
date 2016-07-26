@@ -19,7 +19,7 @@ import static ru.javawebinar.topjava.UserTestData.ADMIN_ID;
 import static ru.javawebinar.topjava.UserTestData.USER_ID;
 
 /**
- * GKislin
+ *
  * 15.09.2015.
  */
 @Repository

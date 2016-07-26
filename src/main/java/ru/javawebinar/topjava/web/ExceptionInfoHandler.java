@@ -13,7 +13,7 @@ import ru.javawebinar.topjava.util.exception.ValidationException;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * User: gkislin
+ * User:
  * Date: 23.09.2014
  */
 @ControllerAdvice(annotations = RestController.class)

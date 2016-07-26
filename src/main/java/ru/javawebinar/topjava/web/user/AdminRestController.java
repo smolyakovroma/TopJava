@@ -12,7 +12,7 @@ import java.net.URI;
 import java.util.List;
 
 /**
- * GKislin
+ *
  * 06.03.2015.
  */
 @RestController

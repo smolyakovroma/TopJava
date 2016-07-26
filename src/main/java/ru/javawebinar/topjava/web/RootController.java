@@ -17,7 +17,7 @@ import ru.javawebinar.topjava.web.user.AbstractUserController;
 import javax.validation.Valid;
 
 /**
- * User: gkislin
+ * User:
  * Date: 22.08.2014
  */
 @Controller

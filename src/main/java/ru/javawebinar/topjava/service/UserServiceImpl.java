@@ -20,7 +20,7 @@ import java.util.Objects;
 import java.util.List;
 
 /**
- * GKislin
+ *
  * 06.03.2015.
  */
 @Service("userService")

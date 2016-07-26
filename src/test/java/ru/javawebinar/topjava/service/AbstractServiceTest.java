@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 import static ru.javawebinar.topjava.Profiles.POSTGRES;
 
 /**
- * User: gkislin
+ * User:
  */
 @ContextConfiguration({
         "classpath:spring/spring-app.xml",

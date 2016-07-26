@@ -1,7 +1,7 @@
 package ru.javawebinar.topjava;
 
 /**
- * User: gkislin
+ * User:
  * Date: 19.08.2014
  */
 public class Profiles {

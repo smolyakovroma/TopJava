@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * User: gkislin
+ * User:
  * Date: 22.08.2014
  */
 @NamedQueries({

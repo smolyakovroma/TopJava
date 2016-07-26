@@ -9,7 +9,7 @@ import com.fasterxml.jackson.datatype.hibernate4.Hibernate4Module;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 
 /**
- * User: gkislin
+ * User:
  * Date: 26.05.2014
  * <p>
  * Handling Hibernate lazy-loading

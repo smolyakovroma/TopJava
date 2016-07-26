@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.util.Collection;
 
 /**
- * GKislin
+ *
  * 06.03.2015.
  */
 public interface UserMealRepository {

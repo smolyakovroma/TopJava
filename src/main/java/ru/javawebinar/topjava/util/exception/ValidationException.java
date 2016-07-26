@@ -3,7 +3,7 @@ package ru.javawebinar.topjava.util.exception;
 import org.springframework.validation.BindingResult;
 
 /**
- * User: gkislin
+ * User:
  * Date: 19.08.2014
  */
 public class ValidationException extends RuntimeException {
