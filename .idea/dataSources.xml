@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3185865343">
+    <data-source source="LOCAL" name="PostgreSQL - topjava@localhost" uuid="516de4e4-c6c6-44bd-ac81-644b7f038173">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/topjava</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="HSQLDB (Local) - topjava" uuid="287f0762-aa8e-4952-9a14-de71d26a6d55">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem:topjava</jdbc-url>
+    </data-source>
+  </component>
+</project>
